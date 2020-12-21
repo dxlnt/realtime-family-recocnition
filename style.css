@@ -1,0 +1,59 @@
+html, body {
+  height: 100%;
+}
+
+.full-height{
+    height: 100%;
+    background-image: url(family.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    text-align: center
+    
+    
+}
+
+.heading{
+    font-size:20px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div{
+   float:none;
+   background-color: white;
+   padding: 5px;
+   border-radius: 25px;
+   box-shadow: 5px 5px 5px grey;
+   color:black;
+   height:70px;
+   
+}
+
+.heading_div2{
+    font-size: 20px;
+    margin-left:140px;
+}
+
+ .result_par_tag{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.copyright_footer{
+    position: fixed;
+    color:white;
+    width: 100%;
+    bottom:0;
+    background-color: grey;
+    line-height:3;
+    text-align:center;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    border-radius:25px;
+    border:5px dotted white;
+    margin-top:150px;
+} 
